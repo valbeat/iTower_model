@@ -1,0 +1,51 @@
+# Extracted from Minecraft world ITower
+# Tue Dec 10 06:28:40 2013
+
+# Selection location min to max: -501, 1, 674 to -414, 154, 760
+
+# Created for 3D printing
+
+# Cost estimate for this model:
+#   if made using the white, strong & flexible material: $ 27.61
+#   if made using the full color sandstone material:     $ 16.99 *** WARNING, thin wall ***
+# For white & flexible printer, minimum wall is 0.7 mm, maximum size is 65 x 55 x 35 cm
+# Units for the model vertex data itself: millimeters
+
+# world dimensions: 6.16 x 10.71 x 6.09 cm
+#   in inches: 2.43 x 4.22 x 2.40 inches
+# each block is 0.70 mm on a side, and has a volume of 0.343 mm^3
+# sum of dimensions: 229.6 mm
+# volume is 18.6517 cm^3
+# surface area is 490.637 cm^2
+# block density: 14% of volume
+
+# 99635 vertices, 100130 faces (200260 triangles), 54378 blocks
+# block dimensions: X=88 by Y=153 (height) by Z=87 blocks
+# File type: Export no materials
+# Make Z the up direction instead of Y: YES
+# Center model: YES
+# Export lesser blocks: no
+# Individual blocks: no
+# Rotate model 0.000000 degrees
+# Scale model by making each block 0.7 mm high
+# Data operation options:
+#   Fill air bubbles: YES; Seal off entrances: no; Fill in isolated tunnels in base of model: no
+#   Connect parts sharing an edge: YES; Connect corner tips: YES; Weld all shared edges: no
+#   Delete floating objects: trees and parts smaller than 16 blocks: YES
+#   Hollow out bottom of model, making the walls 0.7 mm thick: YES; Superhollow: YES
+# Melt snow blocks: no
+#   Debug: show separate parts as colors: no
+#   Debug: show weld blocks in bright colors: no
+
+# Cleanup processing summary:
+#   Solid parts: 3
+#   Air bubbles found and filled (with glass): 105
+#   Total solid parts merged: 11
+#   Number of edge passes made: 2
+#     Edges found to fix: 16
+#     Weld blocks added: 11
+#     Tip blocks added: 1
+#   Floating parts removed: 2
+#     In these floaters, total blocks removed: 23
+#   Blocks removed by hollowing: 63949
+#   Blocks removed by further super-hollowing (i.e. not just vertical hollowing): 46882

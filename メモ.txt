@@ -1,0 +1,14 @@
+マップデータ3Dでレンダリングできるらしい。
+http://doope.jp/2012/1125450.html
+
+リアルタイムでみれるらしい
+http://www34.atwiki.jp/raodonutserver/pages/40.html
+
+3Dモデル→マップデータ
+http://tensys.blog.fc2.com/blog-entry-19.html
+
+ロゴ作れるサイト
+http://textcraft.net/
+
+良い感じのテクスチャ
+http://www.minecraftforum.net/topic/1182714-151-32x-64x-128x-256x-512x-r3dcraft-default-realism-75/
